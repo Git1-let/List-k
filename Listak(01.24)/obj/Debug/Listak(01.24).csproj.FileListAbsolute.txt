@@ -1,0 +1,7 @@
+C:\Users\liptak.daniel\source\repos\Listak(01.24)\Listak(01.24)\bin\Debug\Listak(01.24).exe.config
+C:\Users\liptak.daniel\source\repos\Listak(01.24)\Listak(01.24)\bin\Debug\Listak(01.24).exe
+C:\Users\liptak.daniel\source\repos\Listak(01.24)\Listak(01.24)\bin\Debug\Listak(01.24).pdb
+C:\Users\liptak.daniel\source\repos\Listak(01.24)\Listak(01.24)\obj\Debug\Listak(01.24).csproj.AssemblyReference.cache
+C:\Users\liptak.daniel\source\repos\Listak(01.24)\Listak(01.24)\obj\Debug\Listak(01.24).csproj.CoreCompileInputs.cache
+C:\Users\liptak.daniel\source\repos\Listak(01.24)\Listak(01.24)\obj\Debug\Listak(01.24).exe
+C:\Users\liptak.daniel\source\repos\Listak(01.24)\Listak(01.24)\obj\Debug\Listak(01.24).pdb
